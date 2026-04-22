@@ -1,3 +1,3 @@
 radio.onReceivedNumber(function (receivedNumber) {
-    radio.sendString("")
+    radio.sendString("My name is sophia hi")
 })
